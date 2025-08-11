@@ -1,1 +1,6 @@
-# batocera
+# README
+
+## batocera
+
+
+Scripts para Batocera
