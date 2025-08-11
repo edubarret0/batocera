@@ -1,5 +1,5 @@
 #!/bin/bash
-# Editor: Gemini (baseado na solicitação de usuário)
+# Editor: edubarreto
 # Data: 11/08/2025
 #
 # Script para instalação LOCAL do MiniOS no Batocera.
